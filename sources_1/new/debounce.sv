@@ -3,14 +3,14 @@
 // Engineer: Mike Evans
 // 
 // Create Date: 01/15/2017 09:34:59 PM
-// Design Name: Arty LED Test Control Module
-// Module Name: led_ctrl
-// Project Name: Arty LED Test 
+// Design Name: Arty General-Purpose Debounce Module
+// Module Name: debounce
+// Project Name: 
 // Target Devices: Digilient Arty Dev Board
 // Tool Versions: Vivado 2016.4
-// Description: This module controls the LED's colors and brightness levels. 
+// Description: This module is a general-purpose debounce module with adjustable width. 
 // 
-// Dependencies: led_top.sv, debounce.sv, Arty_sw_btn_led.xdc (constraints file, 1/1)
+// Dependencies: none
 // 
 // Revision:
 // Revision 0.01 - File Created
